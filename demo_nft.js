@@ -15,7 +15,6 @@ Assessment Requirements
 // and store it in the variable above.
 
 let myNfts = [];
-let newNft;
 function mintNFT (_name,_course,_id,_rating,_isElite) {
     const newNft ={
         "name" : _name,
