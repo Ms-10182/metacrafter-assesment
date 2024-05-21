@@ -44,7 +44,9 @@ function getTotalSupply() {
 
 mintNFT("msatt","JS proof",181,5,true);
 mintNFT("vibranium","JS proof",183,5,true);
-mintNFT("chakara","JS proof",185,5,true);
+mintNFT("chakara","JS proof",185,5,false);
+mintNFT("asman","JS proof",187,5,true);
+mintNFT("moon","JS proof",189,5,false);
 
 listNFTs();
 getTotalSupply();
